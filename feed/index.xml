@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wb-media</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 19 Jul 2024 09:14:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/07/cropped-wb-media-2-32x32.png</url>
+	<title>wb-media</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Portfolio kp</title>
+		<link>/portfolio-kp/</link>
+					<comments>/portfolio-kp/#respond</comments>
+		
+		<dc:creator><![CDATA[wilson]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2024 08:57:13 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1773</guid>
+
+					<description><![CDATA[View site]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1773" class="elementor elementor-1773">
+				<div class="elementor-element elementor-element-3174bc9 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="3174bc9" data-element_type="container">
+		<div class="elementor-element elementor-element-69ed0d6 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="69ed0d6" data-element_type="container">
+				<div class="elementor-element elementor-element-f8b5414 elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="f8b5414" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://kp-chi.vercel.app/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View site</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-29beb92 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="29beb92" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-412372b elementor-widget elementor-widget-image" data-id="412372b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="2600" height="8140" src="/wp-content/uploads/2024/07/kp-chi.vercel.app_.png" class="attachment-full size-full wp-image-1780" alt="" srcset="/wp-content/uploads/2024/07/kp-chi.vercel.app_.png 2600w, /wp-content/uploads/2024/07/kp-chi.vercel.app_-96x300.png 96w, /wp-content/uploads/2024/07/kp-chi.vercel.app_-327x1024.png 327w, /wp-content/uploads/2024/07/kp-chi.vercel.app_-768x2404.png 768w, /wp-content/uploads/2024/07/kp-chi.vercel.app_-491x1536.png 491w, /wp-content/uploads/2024/07/kp-chi.vercel.app_-654x2048.png 654w" sizes="(max-width: 2600px) 100vw, 2600px" />													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio-kp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cyclestands India</title>
+		<link>/cyclestand/</link>
+		
+		<dc:creator><![CDATA[wilson]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2024 15:49:31 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1734</guid>
+
+					<description><![CDATA[View site]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1734" class="elementor elementor-1734">
+				<div class="elementor-element elementor-element-2d8a1b29 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="2d8a1b29" data-element_type="container">
+		<div class="elementor-element elementor-element-e678eba e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="e678eba" data-element_type="container">
+				<div class="elementor-element elementor-element-5519b43b elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="5519b43b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://cyclestands.in/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View site</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-573b38d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="573b38d" data-element_type="container">
+				<div class="elementor-element elementor-element-b40650c elementor-widget elementor-widget-image" data-id="b40650c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="943" height="2560" src="/wp-content/uploads/2024/07/Group-11-scaled.jpg" class="attachment-full size-full wp-image-1751" alt="" srcset="/wp-content/uploads/2024/07/Group-11-scaled.jpg 943w, /wp-content/uploads/2024/07/Group-11-111x300.jpg 111w, /wp-content/uploads/2024/07/Group-11-377x1024.jpg 377w, /wp-content/uploads/2024/07/Group-11-768x2085.jpg 768w, /wp-content/uploads/2024/07/Group-11-566x1536.jpg 566w" sizes="(max-width: 943px) 100vw, 943px" />													</div>
+				</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
